@@ -16650,7 +16650,7 @@ var $async$fe=P.a4(function(a1,a2){if(a1===1){o=a2
 s=p}while(true)switch(s){case 0:b=null
 p=4
 s=7
-return P.a5(a0.ca(0,"FontManifest.json"),$async$fe)
+return P.a5(a0.ca(0,"testflatter/FontManifest.json"),$async$fe)
 case 7:b=a2
 p=2
 s=6
