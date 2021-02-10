@@ -15468,7 +15468,7 @@ ov:function(a){var s
 if(P.a2r(a).gAN())return P.Fl(C.l3,a,C.G,!1)
 s=this.gIy()
 if(s==null)s=""
-return P.Fl(C.l3,s+("testflatter/assets/"+H.c(a)),C.G,!1)},
+return P.Fl(C.l3,s+("assets/"+H.c(a)),C.G,!1)},
 ca:function(a,b){return this.Ri(a,b)},
 Ri:function(a,b){var s=0,r=P.a9(t.yp),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$ca=P.a4(function(c,d){if(c===1){o=d
