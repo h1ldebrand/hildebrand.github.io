@@ -15468,7 +15468,7 @@ ov:function(a){var s
 if(P.a2r(a).gAN())return P.Fl(C.l3,a,C.G,!1)
 s=this.gIy()
 if(s==null)s=""
-return P.Fl(C.l3,s+("assets/"+H.c(a)),C.G,!1)},
+return P.Fl(C.l3,s+("testflatter/assets/"+H.c(a)),C.G,!1)},
 ca:function(a,b){return this.Ri(a,b)},
 Ri:function(a,b){var s=0,r=P.a9(t.yp),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$ca=P.a4(function(c,d){if(c===1){o=d
@@ -16650,7 +16650,7 @@ var $async$fe=P.a4(function(a1,a2){if(a1===1){o=a2
 s=p}while(true)switch(s){case 0:b=null
 p=4
 s=7
-return P.a5(a0.ca(0,"testflatter/FontManifest.json"),$async$fe)
+return P.a5(a0.ca(0,"FontManifest.json"),$async$fe)
 case 7:b=a2
 p=2
 s=6
@@ -22652,7 +22652,7 @@ var $async$fe=P.a4(function(a4,a5){if(a4===1){o=a5
 s=p}while(true)switch(s){case 0:a1=null
 p=4
 s=7
-return P.a5(a3.ca(0,"testflatter/FontManifest.json"),$async$fe)
+return P.a5(a3.ca(0,"FontManifest.json"),$async$fe)
 case 7:a1=a5
 p=2
 s=6
